@@ -1,6 +1,6 @@
 <center>
   <a href="https://asd-tech.com">
-    <img src="https://asd-tech.com/wp-content/uploads/2018/12/cropped-ASD-LOGO-small-01-1.png" alt="ASD Logo" style="width:400px;height:200px;"/>
+    <img src="https://static.wixstatic.com/media/3e2626_cbd6a4aefaa84011ae19d94b2e869594~mv2.png" alt="ASD Logo" style="width:400px;height:200px;"/>
   </a>
 </center>
 <H1>ASD - Research and Development Experts.</H1>
