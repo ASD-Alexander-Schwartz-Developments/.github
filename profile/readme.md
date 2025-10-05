@@ -3,14 +3,12 @@
     <img src="https://static.wixstatic.com/media/3e2626_cbd6a4aefaa84011ae19d94b2e869594~mv2.png" alt="ASD Logo" style="width:400px;height:200px;"/>
   </a>
 </center>
-<H1>ASD - Research and Development Experts.</H1>
-
-
-<H3>We work closely with R&D teams providing innovative engineering solutions and close personal hands-on CTO level mentoring.<H3>
-<H3>Agile product development, starting from proof-of-concept, MVP and to production ready files.<H3>
-<H3>ASD - Creators of an Unique Ultra Low Power SNAP GNSS and sensor technology for wildlife tracking, biological data acquisition and more.<H3>
-
-<H2>A.S.D - Alexander Schwartz Developments open source software.</H2>
+<H1>A.S.D - Alexander Schwartz Developments</H1>
+<H2>Innovative IoT and Sensing Solutions</H2>
+<p>
+founded in 2004, develops advanced, non-invasive sensor technologies specifically designed for wildlife and life science research.
+Our products support a wide range of ecological and biological areas of study. Tracking bird migration, monitoring marine life to analyzing physiological signals, empowering researchers and engineers with precise insights that drive biodiversity, conservation, scientific discovery and innovation. 
+</p>
 <p>Here we provide accompanying software and support educational materials to make our products accessible.<br>
 All open-source software here is delivered by ASD. This software is part of our complete software offer together with associated documentation and related ASD products (Loggers, Tags, Transceivers and more).
 Although the majority of our software is published here under open-source licenses, part of it is released under proprietary licenses. Please check the License file included in each repository for more details.
